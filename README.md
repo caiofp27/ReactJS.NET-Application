@@ -10,6 +10,5 @@ BackEnd: .NET Core<br />
 After clone it:<br />
 - Inside ClientApp<br />
 -- npm install<br />
--- npm start
 
-- Using VS2020 run debug
+Then using run vs2020 debugger
