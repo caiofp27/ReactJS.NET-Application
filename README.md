@@ -1,8 +1,8 @@
 # ReactJS.NET-Application
 
 Project built using ReactJS.Net.<br />
-FrontEnd: ReactJS<br />
-BackEnd: .NET Core<br />
+ASP.NET Core and C# for cross-platform backend code<br />
+React for client-side code<br />
 
 - Target framework .NET 6.0
 
